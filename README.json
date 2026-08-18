@@ -14,7 +14,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23562
+            "stars": 23564
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2023-09-06T16:36:58Z",
             "owner": "lucidrains",
             "repo": "musiclm-pytorch",
-            "stars": 3298
+            "stars": 3296
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2026-07-27T13:23:40Z",
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3240
+            "stars": 3239
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2023-05-04T10:38:10Z",
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2727
+            "stars": 2728
           }
         },
         {
@@ -126,7 +126,7 @@
             "last_commit": "2024-09-29T15:05:21Z",
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2637
+            "stars": 2636
           }
         },
         {
@@ -210,7 +210,7 @@
             "last_commit": "2021-08-02T09:30:42Z",
             "owner": "umbrellabeach",
             "repo": "music-generation-with-DL",
-            "stars": 730
+            "stars": 729
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-03-11T03:42:04Z",
             "owner": "salu133445",
             "repo": "muspy",
-            "stars": 523
+            "stars": 524
           }
         },
         {
@@ -342,7 +342,7 @@
             "last_commit": "2026-08-16T04:35:05Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 431
+            "stars": 433
           }
         },
         {
@@ -356,7 +356,7 @@
             "last_commit": "2026-08-16T04:35:05Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 431
+            "stars": 433
           }
         }
       ],
@@ -364,7 +364,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T22:49:10.503Z",
+    "last_updated": "2026-08-18T22:49:25.814Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
     "enhanced_repository": "enhansome/enhansome-ai-music-generation",
