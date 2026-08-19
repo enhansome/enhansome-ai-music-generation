@@ -45,7 +45,7 @@
             "last_commit": "2026-08-05T21:14:33Z",
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4947
+            "stars": 4949
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-07-22T18:09:39Z",
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3900
+            "stars": 3901
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 2636759,
             "language": "C++",
-            "last_commit": "2026-08-17T20:42:35Z",
+            "last_commit": "2026-08-19T16:36:53Z",
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1073
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-19T02:28:55Z",
+            "last_commit": "2026-08-19T21:45:23Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
             "stars": 434
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-19T02:28:55Z",
+            "last_commit": "2026-08-19T21:45:23Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
             "stars": 434
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:01.801Z",
+    "last_updated": "2026-08-19T22:50:16.681Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_id": 714008096,
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
