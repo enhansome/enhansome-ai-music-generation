@@ -45,7 +45,7 @@
             "last_commit": "2026-08-05T21:14:33Z",
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4949
+            "stars": 4948
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2024-07-22T18:09:39Z",
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3901
+            "stars": 3900
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2023-09-06T16:36:58Z",
             "owner": "lucidrains",
             "repo": "musiclm-pytorch",
-            "stars": 3296
+            "stars": 3293
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-27T13:23:40Z",
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3239
+            "stars": 3238
           }
         },
         {
@@ -105,7 +105,7 @@
             "last_commit": "2023-05-04T10:38:10Z",
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2728
+            "stars": 2726
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-09-29T15:05:21Z",
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2636
+            "stars": 2637
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2026-06-22T20:40:59Z",
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2125
+            "stars": 2124
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-06-07T10:22:36Z",
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2036
+            "stars": 2035
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-19T16:36:53Z",
             "owner": "kmatheussen",
             "repo": "radium",
-            "stars": 1073
+            "stars": 1074
           }
         },
         {
@@ -300,7 +300,7 @@
             "last_commit": "2017-04-01T14:48:40Z",
             "owner": "Conchylicultor",
             "repo": "MusicGenerator",
-            "stars": 338
+            "stars": 337
           }
         },
         {
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-19T21:45:23Z",
+            "last_commit": "2026-08-20T22:25:50Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 434
+            "stars": 436
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-19T21:45:23Z",
+            "last_commit": "2026-08-20T22:25:50Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 434
+            "stars": 436
           }
         }
       ],
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T22:50:16.681Z",
+    "last_updated": "2026-08-20T22:54:15.451Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_id": 714008096,
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
