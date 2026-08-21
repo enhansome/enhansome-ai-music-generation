@@ -15,7 +15,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23564
+            "stars": 23568
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-05T21:14:33Z",
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4948
+            "stars": 4949
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-07-27T13:23:40Z",
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3238
+            "stars": 3240
           }
         },
         {
@@ -135,7 +135,7 @@
             "last_commit": "2024-09-29T15:05:21Z",
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2637
+            "stars": 2638
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 2636759,
             "language": "C++",
-            "last_commit": "2026-08-19T16:36:53Z",
+            "last_commit": "2026-08-21T18:07:34Z",
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1074
@@ -363,10 +363,10 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-20T22:25:50Z",
+            "last_commit": "2026-08-20T23:01:51Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 436
+            "stars": 438
           }
         },
         {
@@ -378,10 +378,10 @@
             "archived": false,
             "id": 1133894957,
             "language": "Python",
-            "last_commit": "2026-08-20T22:25:50Z",
+            "last_commit": "2026-08-20T23:01:51Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 436
+            "stars": 438
           }
         }
       ],
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T22:54:15.451Z",
+    "last_updated": "2026-08-21T22:49:52.408Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_id": 714008096,
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
