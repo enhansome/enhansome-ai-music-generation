@@ -15,7 +15,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23575
+            "stars": 23576
           }
         },
         {
@@ -30,7 +30,7 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19809
+            "stars": 19808
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-05T21:14:33Z",
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4951
+            "stars": 4952
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-06-07T10:22:36Z",
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2035
+            "stars": 2036
           }
         },
         {
@@ -180,7 +180,7 @@
             "last_commit": "2026-08-23T10:35:36Z",
             "owner": "kmatheussen",
             "repo": "radium",
-            "stars": 1074
+            "stars": 1075
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2022-10-28T13:41:33Z",
             "owner": "marcoppasini",
             "repo": "musika",
-            "stars": 683
+            "stars": 684
           }
         },
         {
@@ -366,7 +366,7 @@
             "last_commit": "2026-08-23T15:27:48Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 442
+            "stars": 445
           }
         },
         {
@@ -381,7 +381,7 @@
             "last_commit": "2026-08-23T15:27:48Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 442
+            "stars": 445
           }
         }
       ],
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T22:47:05.023Z",
+    "last_updated": "2026-08-24T14:22:30.433Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_id": 714008096,
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
