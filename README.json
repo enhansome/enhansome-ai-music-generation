@@ -15,7 +15,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23576
+            "stars": 23575
           }
         },
         {
@@ -177,7 +177,7 @@
             "archived": false,
             "id": 2636759,
             "language": "C++",
-            "last_commit": "2026-08-23T10:35:36Z",
+            "last_commit": "2026-08-24T20:42:32Z",
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1075
@@ -389,7 +389,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:22:30.433Z",
+    "last_updated": "2026-08-24T22:52:43.426Z",
     "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
     "original_repository_id": 714008096,
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
