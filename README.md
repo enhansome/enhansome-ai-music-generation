@@ -28,7 +28,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
-* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,586 | 🐛 394 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,588 | 🐛 394 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
 * [Muzic](https://github.com/microsoft/muzic) ⭐ 4,952 | 🐛 115 | 🌐 Python | 📅 2026-08-05: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
 * [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,900 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
@@ -38,7 +38,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 * [riffusion-app](https://github.com/riffusion/riffusion-app) ⭐ 2,677 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-22: Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
 * [AudioLDM2](https://github.com/haoheliu/AudioLDM2) ⭐ 2,639 | 🐛 74 | 🌐 Python | 📅 2024-09-29: Text-to-Audio/Music Generation 🎵 (1733 stars)
 * [Magenta.js](https://github.com/magenta/magenta-js) ⭐ 2,125 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22: Music and Art Generation with Machine Learning in the browser 🎵🖌️ (1899 stars)
-* [musegan](https://github.com/salu133445/musegan) ⭐ 2,036 | 🐛 21 | 🌐 Python | 📅 2024-06-07: An AI for Music Generation 🎵 (1602 stars)
+* [musegan](https://github.com/salu133445/musegan) ⭐ 2,037 | 🐛 21 | 🌐 Python | 📅 2024-06-07: An AI for Music Generation 🎵 (1602 stars)
 * [**Radium**](https://github.com/kmatheussen/radium) ⭐ 1,076 | 🐛 268 | 🌐 C++ | 📅 2026-08-26: A graphical music editor and next generation tracker. 🎵⚡️ (805 stars)
 * [**GRUV**](https://github.com/MattVitelli/GRUV) ⭐ 795 | 🐛 27 | 🌐 Python | 📅 2020-11-28: A Python project for algorithmic music generation. 🐍🎶 (798 stars)
 * [**DeepJ**](https://github.com/calclavia/DeepJ) ⭐ 743 | 🐛 17 | 🌐 Python | 📅 2018-09-30: A deep learning model for style-specific music generation. 🎵🔥 (717 stars)

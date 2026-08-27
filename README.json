@@ -15,7 +15,7 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23586
+            "stars": 23588
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2024-06-07T10:22:36Z",
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2036
+            "stars": 2037
           }
         },
         {
@@ -389,9 +389,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T03:26:06.032Z",
-    "original_repository": "Curated-Awesome-Lists/awesome-ai-music-generation",
-    "original_repository_id": 714008096,
+    "last_updated": "2026-08-27T11:19:13.012Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 714008096,
+      "language": null,
+      "last_commit": "2026-05-15T08:49:18Z",
+      "owner": "Curated-Awesome-Lists",
+      "repo": "awesome-ai-music-generation",
+      "stars": 492
+    },
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
     "enhanced_repository": "enhansome/enhansome-ai-music-generation",
     "enhanced_repository_description": null,
