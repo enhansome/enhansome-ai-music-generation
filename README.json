@@ -15,8 +15,9 @@
             "last_commit": "2026-03-03T21:50:32Z",
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23588
-          }
+            "stars": 23587
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2026-01-06T01:17:54Z",
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19808
-          }
+            "stars": 19807
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "microsoft",
             "repo": "muzic",
             "stars": 4952
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -60,8 +63,9 @@
             "last_commit": "2024-07-22T18:09:39Z",
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3900
-          }
+            "stars": 3902
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -75,8 +79,9 @@
             "last_commit": "2023-09-06T16:36:58Z",
             "owner": "lucidrains",
             "repo": "musiclm-pytorch",
-            "stars": 3293
-          }
+            "stars": 3292
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -90,8 +95,9 @@
             "last_commit": "2026-07-27T13:23:40Z",
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3244
-          }
+            "stars": 3243
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
             "stars": 2725
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
             "stars": 2677
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "haoheliu",
             "repo": "AudioLDM2",
             "stars": 2639
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "magenta",
             "repo": "magenta-js",
             "stars": 2125
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "salu133445",
             "repo": "musegan",
             "stars": 2037
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -177,11 +188,12 @@
             "archived": false,
             "id": 2636759,
             "language": "C++",
-            "last_commit": "2026-08-26T19:56:48Z",
+            "last_commit": "2026-08-27T19:31:27Z",
             "owner": "kmatheussen",
             "repo": "radium",
-            "stars": 1076
-          }
+            "stars": 1077
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "MattVitelli",
             "repo": "GRUV",
             "stars": 795
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "calclavia",
             "repo": "DeepJ",
             "stars": 743
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "umbrellabeach",
             "repo": "music-generation-with-DL",
             "stars": 729
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "marcoppasini",
             "repo": "musika",
             "stars": 684
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "AI-Guru",
             "repo": "music-generation-research",
             "stars": 605
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "salu133445",
             "repo": "muspy",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "hugofloresgarcia",
             "repo": "vampnet",
             "stars": 358
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "Conchylicultor",
             "repo": "MusicGenerator",
             "stars": 338
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "stevenwaterman",
             "repo": "musetree",
             "stars": 251
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "innermost47",
             "repo": "ai-dj",
             "stars": 240
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "prabal-rje",
             "repo": "latentscore",
             "stars": 41
-          }
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         }
       ],
       "title": "GitHub projects"
@@ -366,8 +389,9 @@
             "last_commit": "2026-08-26T21:44:29Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 455
-          }
+            "stars": 457
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         },
         {
           "node_type": "item",
@@ -381,15 +405,16 @@
             "last_commit": "2026-08-26T21:44:29Z",
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 455
-          }
+            "stars": 457
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
         }
       ],
       "title": "Tools & Software"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:19:13.012Z",
+    "last_updated": "2026-08-28T06:13:14.119Z",
     "original_repository_info": {
       "archived": false,
       "id": 714008096,
@@ -397,7 +422,7 @@
       "last_commit": "2026-05-15T08:49:18Z",
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
-      "stars": 492
+      "stars": 493
     },
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
     "enhanced_repository": "enhansome/enhansome-ai-music-generation",
