@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Audiocraft is a library for audio processing and generation with deep learning. It features the state-of-the-art EnCodec audio compressor / tokenizer, along with MusicGen, a simple and controllable music generation LM with textual and melodic conditioning.",
+            "homepage": null,
             "id": 650945129,
             "language": "Jupyter Notebook",
+            "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
+            "open_issues": 395,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23587
+            "stars": 23588,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Magenta: Music and Art Generation with Machine Intelligence",
+            "homepage": null,
             "id": 58157629,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-06T01:17:54Z",
+            "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19807
+            "stars": 19807,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -42,12 +52,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
+            "homepage": null,
             "id": 373462930,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-08-05T21:14:33Z",
+            "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4952
+            "stars": 4952,
+            "topics": [
+              "ai-music",
+              "deep-learning",
+              "music",
+              "music-composition"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -58,12 +78,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stable diffusion for real-time music generation",
+            "homepage": null,
             "id": 570696986,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-22T18:09:39Z",
+            "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3902
+            "stars": 3903,
+            "topics": [
+              "ai",
+              "audio",
+              "diffusers",
+              "diffusion",
+              "music",
+              "stable-diffusion"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -74,12 +106,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
+            "homepage": null,
             "id": 594096901,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-09-06T16:36:58Z",
+            "open_issues": 26,
             "owner": "lucidrains",
             "repo": "musiclm-pytorch",
-            "stars": 3292
+            "stars": 3292,
+            "topics": [
+              "artificial-intelligence",
+              "attention-mechanisms",
+              "deep-learning",
+              "music-synthesis",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -90,12 +133,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
+            "homepage": "http://TTSWebUI.com/",
             "id": 633546245,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-07-27T13:23:40Z",
+            "open_issues": 108,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3243
+            "stars": 3245,
+            "topics": [
+              "ace-step",
+              "ai",
+              "audio-generation",
+              "cosyvoice",
+              "generative-ai",
+              "generator",
+              "gradio",
+              "music",
+              "musicgen",
+              "openai-api",
+              "openvoice",
+              "rvc",
+              "styletts2",
+              "text-to-speech",
+              "tortoise-tts",
+              "tts",
+              "vocos"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -106,12 +172,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple notebook demonstrating prompt-based music generation via Mubert API",
+            "homepage": null,
             "id": 553119108,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-05-04T10:38:10Z",
+            "open_issues": 12,
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2725
+            "stars": 2724,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -122,12 +193,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Stable diffusion for real-time music generation (web app)",
+            "homepage": "https://riffusion.vercel.app",
             "id": 568517086,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2024-07-22T18:01:37Z",
+            "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2677
+            "stars": 2677,
+            "topics": [
+              "ai",
+              "audio",
+              "diffusion",
+              "music",
+              "nextjs",
+              "stable-diffusion",
+              "threejs"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -138,12 +222,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Text-to-Audio/Music Generation",
+            "homepage": null,
             "id": 674695560,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-29T15:05:21Z",
+            "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2639
+            "stars": 2639,
+            "topics": [
+              "audio-generation"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -154,12 +245,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Magenta.js: Music and Art Generation with Machine Learning in the browser",
+            "homepage": "https://magenta.tensorflow.org",
             "id": 126883328,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-06-22T20:40:59Z",
+            "open_issues": 136,
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2125
+            "stars": 2125,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -170,12 +266,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An AI for Music Generation",
+            "homepage": "https://salu133445.github.io/musegan/",
             "id": 103350832,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-06-07T10:22:36Z",
+            "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2037
+            "stars": 2037,
+            "topics": [
+              "gan",
+              "generative-adversarial-network",
+              "machine-learning",
+              "music",
+              "music-generation",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -186,12 +294,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A graphical music editor. A next generation tracker.",
+            "homepage": "http://users.notam02.no/~kjetism/radium/",
             "id": 2636759,
             "language": "C++",
-            "last_commit": "2026-08-27T19:31:27Z",
+            "license": "GPL-2.0",
+            "last_commit": "2026-08-28T18:02:18Z",
+            "open_issues": 268,
             "owner": "kmatheussen",
             "repo": "radium",
-            "stars": 1077
+            "stars": 1077,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -202,12 +315,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "GRUV is a Python project for algorithmic music generation. ",
+            "homepage": null,
             "id": 39748713,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-11-28T18:30:27Z",
+            "open_issues": 27,
             "owner": "MattVitelli",
             "repo": "GRUV",
-            "stars": 795
+            "stars": 795,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -218,12 +336,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A deep learning model for style-specific music generation.",
+            "homepage": "https://arxiv.org/abs/1801.00887",
             "id": 79006723,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2018-09-30T18:28:01Z",
+            "open_issues": 17,
             "owner": "calclavia",
             "repo": "DeepJ",
-            "stars": 743
+            "stars": 743,
+            "topics": [
+              "composition",
+              "deep",
+              "generation",
+              "keras",
+              "learning",
+              "machine",
+              "music",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -234,12 +366,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Resources on Music Generation with Deep Learning",
+            "homepage": null,
             "id": 93723057,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-02T09:30:42Z",
+            "open_issues": 1,
             "owner": "umbrellabeach",
             "repo": "music-generation-with-DL",
-            "stars": 729
+            "stars": 729,
+            "topics": [
+              "deep-learning",
+              "gan",
+              "music-composition",
+              "music-generation"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -250,12 +392,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast Infinite Waveform Music Generation",
+            "homepage": null,
             "id": 517969610,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-10-28T13:41:33Z",
+            "open_issues": 14,
             "owner": "marcoppasini",
             "repo": "musika",
-            "stars": 684
+            "stars": 684,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -266,12 +413,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A straightforward collection of Music Generation research resources.",
+            "homepage": null,
             "id": 373065369,
             "language": null,
+            "license": null,
             "last_commit": "2025-01-20T13:07:26Z",
+            "open_issues": 1,
             "owner": "AI-Guru",
             "repo": "music-generation-research",
-            "stars": 605
+            "stars": 605,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -282,12 +434,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A toolkit for symbolic music generation",
+            "homepage": "https://salu133445.github.io/muspy/",
             "id": 247167654,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2026-03-11T03:42:04Z",
+            "open_issues": 26,
             "owner": "salu133445",
             "repo": "muspy",
-            "stars": 524
+            "stars": 524,
+            "topics": [
+              "audio",
+              "machine-learning",
+              "music",
+              "music-generation",
+              "music-information-retrieval",
+              "python"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -298,12 +462,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "music generation with masked transformers! ",
+            "homepage": "https://hugo-does-things.notion.site/VampNet-Music-Generation-via-Masked-Acoustic-Token-Modeling-e37aabd0d5f1493aa42c5711d0764b33?pvs=4",
             "id": 630987119,
             "language": "Max",
+            "license": "MIT",
             "last_commit": "2025-05-16T14:53:10Z",
+            "open_issues": 19,
             "owner": "hugofloresgarcia",
             "repo": "vampnet",
-            "stars": 358
+            "stars": 358,
+            "topics": [
+              "deep-learning",
+              "music",
+              "music-generation",
+              "transformers"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -314,12 +488,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Experiment diverse Deep learning models for music generation with TensorFlow",
+            "homepage": null,
             "id": 66854970,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2017-04-01T14:48:40Z",
+            "open_issues": 7,
             "owner": "Conchylicultor",
             "repo": "MusicGenerator",
-            "stars": 338
+            "stars": 338,
+            "topics": [
+              "deep-learning",
+              "music-generation",
+              "rnn",
+              "tensorflow"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -330,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI Music Generation for the Real World",
+            "homepage": "http://musetree.stevenwaterman.uk/",
             "id": 235198140,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2023-05-07T19:38:14Z",
+            "open_issues": 38,
             "owner": "stevenwaterman",
             "repo": "musetree",
-            "stars": 251
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -346,12 +535,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "AI music generation for live performance - Standalone (Ableton Link) + VST3/AU. 8 tracks, 9 AI models. It occasionally hallucinates. Not a song generator - you still have to do the work. Stay human.",
+            "homepage": "https://obsidian-neural.com/",
             "id": 984684594,
             "language": "C++",
+            "license": "AGPL-3.0",
             "last_commit": "2026-07-31T09:10:58Z",
+            "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 240
+            "stars": 241,
+            "topics": [
+              "ableton-link-audio",
+              "ai",
+              "ai-music",
+              "ai-music-generation",
+              "ai-music-generator",
+              "ai-music-tools",
+              "daw",
+              "juce",
+              "live-performance",
+              "llm",
+              "music-ai",
+              "music-generation",
+              "stable-audio",
+              "standalone",
+              "vst"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -362,12 +572,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Python library for generating ambient music from text descriptions. No GPU required. Turn text into sound with a single line of code.",
+            "homepage": "https://latentscore.com",
             "id": 1125003348,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-29T11:31:50Z",
+            "open_issues": 1,
             "owner": "prabal-rje",
             "repo": "latentscore",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "ambient-music",
+              "audio",
+              "audio-synthesis",
+              "creative-coding",
+              "embeddings",
+              "gemini-api",
+              "gemma",
+              "generative-ai",
+              "llm",
+              "music",
+              "music-generation",
+              "procedural-audio",
+              "procedural-generation",
+              "python",
+              "retrieval-augmented-generation",
+              "sentence-transformers",
+              "sound-design",
+              "synthesizer",
+              "text-to-music"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         }
@@ -384,12 +619,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
+            "homepage": "https://www.bitwizemusic.com",
             "id": 1133894957,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-26T21:44:29Z",
+            "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 457
+            "stars": 460,
+            "topics": [
+              "ai-music",
+              "ai-music-tools",
+              "audio-mastering",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-code-plugin-marketplace",
+              "claude-code-plugins",
+              "claude-code-plugins-marketplace",
+              "claude-code-skills",
+              "claude-skill",
+              "claude-skills",
+              "lyric-writer",
+              "lyrics",
+              "music",
+              "music-mastering",
+              "songwriting",
+              "suno",
+              "suno-ai",
+              "sunoai"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -400,12 +661,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Human + AI music production workflow for Suno - skills, templates, and tools",
+            "homepage": "https://www.bitwizemusic.com",
             "id": 1133894957,
             "language": "Python",
+            "license": "CC0-1.0",
             "last_commit": "2026-08-26T21:44:29Z",
+            "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 457
+            "stars": 460,
+            "topics": [
+              "ai-music",
+              "ai-music-tools",
+              "audio-mastering",
+              "claude",
+              "claude-code",
+              "claude-code-plugin",
+              "claude-code-plugin-marketplace",
+              "claude-code-plugins",
+              "claude-code-plugins-marketplace",
+              "claude-code-skills",
+              "claude-skill",
+              "claude-skills",
+              "lyric-writer",
+              "lyrics",
+              "music",
+              "music-mastering",
+              "songwriting",
+              "suno",
+              "suno-ai",
+              "sunoai"
+            ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         }
@@ -414,15 +701,26 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T06:13:14.119Z",
+    "last_updated": "2026-08-29T03:47:33.915Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
+      "homepage": null,
       "id": 714008096,
       "language": null,
+      "license": "Apache-2.0",
       "last_commit": "2026-05-15T08:49:18Z",
+      "open_issues": 11,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
-      "stars": 493
+      "stars": 493,
+      "topics": [
+        "ai",
+        "awesome",
+        "awesome-list",
+        "generative-ai",
+        "music-generation"
+      ]
     },
     "original_repository_sha": "03afcd416c81c58ddf0b613335477c8850bb886d",
     "enhanced_repository": "enhansome/enhansome-ai-music-generation",
