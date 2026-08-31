@@ -19,7 +19,7 @@
             "open_issues": 395,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23591,
+            "stars": 23593,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19806,
+            "stars": 19805,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3903,
+            "stars": 3902,
             "topics": [
               "ai",
               "audio",
@@ -181,7 +181,7 @@
             "open_issues": 12,
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2724,
+            "stars": 2723,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2639,
+            "stars": 2640,
             "topics": [
               "audio-generation"
             ]
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2037,
+            "stars": 2038,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -299,7 +299,7 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T16:02:21Z",
+            "last_commit": "2026-08-30T21:40:54Z",
             "open_issues": 268,
             "owner": "kmatheussen",
             "repo": "radium",
@@ -324,7 +324,7 @@
             "open_issues": 27,
             "owner": "MattVitelli",
             "repo": "GRUV",
-            "stars": 795,
+            "stars": 796,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -581,7 +581,7 @@
             "open_issues": 1,
             "owner": "prabal-rje",
             "repo": "latentscore",
-            "stars": 41,
+            "stars": 42,
             "topics": [
               "ambient-music",
               "audio",
@@ -628,7 +628,7 @@
             "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 462,
+            "stars": 464,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 462,
+            "stars": 464,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T00:31:39.678Z",
+    "last_updated": "2026-08-31T00:44:26.639Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
