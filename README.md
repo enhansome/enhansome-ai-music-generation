@@ -28,15 +28,15 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
-* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,605 | 🐛 396 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,607 | 🐛 396 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
 * [Muzic](https://github.com/microsoft/muzic) ⭐ 4,951 | 🐛 115 | 🌐 Python | 📅 2026-08-05: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
 * [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,902 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
 * [musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) ⭐ 3,293 | 🐛 26 | 🌐 Python | 📅 2023-09-06: PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)
-* [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) ⭐ 3,252 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-31 - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
+* [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) ⭐ 3,251 | 🐛 108 | 🌐 TypeScript | 📅 2026-08-31 - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 * [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) ⭐ 2,723 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-05-04: A notebook demonstrating prompt-based music generation using Mubert API 🎵 (2674 stars)
-* [riffusion-app](https://github.com/riffusion/riffusion-app) ⭐ 2,677 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-22: Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
-* [AudioLDM2](https://github.com/haoheliu/AudioLDM2) ⭐ 2,640 | 🐛 75 | 🌐 Python | 📅 2024-09-29: Text-to-Audio/Music Generation 🎵 (1733 stars)
+* [riffusion-app](https://github.com/riffusion/riffusion-app) ⭐ 2,676 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-22: Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
+* [AudioLDM2](https://github.com/haoheliu/AudioLDM2) ⭐ 2,641 | 🐛 75 | 🌐 Python | 📅 2024-09-29: Text-to-Audio/Music Generation 🎵 (1733 stars)
 * [Magenta.js](https://github.com/magenta/magenta-js) ⭐ 2,125 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22: Music and Art Generation with Machine Learning in the browser 🎵🖌️ (1899 stars)
 * [musegan](https://github.com/salu133445/musegan) ⭐ 2,040 | 🐛 21 | 🌐 Python | 📅 2024-06-07: An AI for Music Generation 🎵 (1602 stars)
 * [**Radium**](https://github.com/kmatheussen/radium) ⭐ 1,079 | 🐛 268 | 🌐 C++ | 📅 2026-08-31: A graphical music editor and next generation tracker. 🎵⚡️ (805 stars)
@@ -132,8 +132,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## Tools & Software
 
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 469 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 469 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 470 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 470 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 * [Stability AI unveils 'Stable Audio'](https://alternativeto.net/news/2023/9/stability-ai-unveils-stable-audio--a-versatile-platform-for-ai-music-generation/): A versatile platform for AI Music Generation. Stability AI has launched a new AI platform, Stable Audio, which offers a novel latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control.
 * [SuperCollider](https://sourceforge.net/directory/?q=algorithmic%20music%20composition): An audio server, programming language, and IDE for sound synthesis. SuperCollider is a platform for audio synthesis and algorithmic composition.
 * [Best Open Source AI Music Generators](https://sourceforge.net/directory/ai-music-generators/): Implementation of AudioLM, a language modeling approach to audio generation using Pytorch. It includes conditioning mechanisms for more control over generated music.
@@ -146,6 +146,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 * [MuseGen](https://musegen.org) - AI tool for lyric writing and song generation.
 * [OBSIDIAN Neural](https://obsidian-neural.com): VST3 plugin for real-time AI music generation during live performance. Features 8-track MIDI-triggered sampler with text-to-audio and experimental draw-to-audio generation.
 * [AceTagGen](https://acetaggen.com): A free prompt builder for Suno AI. Structured inputs (mood, genre, instruments, SFX, production style) that produce a Suno-ready prompt fitting the 200-char Style field. Includes tested example library and quality-score validator.
+* [HookGenius](https://hookgenius.app): An AI pre-production tool for Suno. Turns a single idea into complete song lyrics with structure tags, a Suno-optimized style prompt, and a title — all ready to copy-paste into Suno. Refined across 50+ genres; free tier included.
 * [Boppy](https://boppy.me): Free AI music generator that creates complete songs from text descriptions. AI writes lyrics and ACE-Step 1.5 generates full audio tracks with vocals and instrumentation. Any genre, up to 5 minutes per track, no signup required.
 * [workmusic.ai](https://workmusic.ai): Free browser-based ambient focus music generator powered by Google Lyria. No sign-up required. Open source.
 * [webtoolz AI Music Studio](https://webtoolz.dev/music/studio): Free browser-based AI music generator. Create full songs with lyrics from text prompts, no signup required.
@@ -177,4 +178,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
