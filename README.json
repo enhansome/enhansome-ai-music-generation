@@ -19,7 +19,7 @@
             "open_issues": 396,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23611,
+            "stars": 23612,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19799,
+            "stars": 19798,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4952,
+            "stars": 4953,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3904,
+            "stars": 3903,
             "topics": [
               "ai",
               "audio",
@@ -138,8 +138,8 @@
             "id": 633546245,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-06T18:34:19Z",
-            "open_issues": 134,
+            "last_commit": "2026-09-07T08:54:58Z",
+            "open_issues": 131,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
             "stars": 3254,
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2641,
+            "stars": 2640,
             "topics": [
               "audio-generation"
             ]
@@ -324,7 +324,7 @@
             "open_issues": 27,
             "owner": "MattVitelli",
             "repo": "GRUV",
-            "stars": 796,
+            "stars": 795,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -401,7 +401,7 @@
             "open_issues": 14,
             "owner": "marcoppasini",
             "repo": "musika",
-            "stars": 684,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -443,7 +443,7 @@
             "open_issues": 26,
             "owner": "salu133445",
             "repo": "muspy",
-            "stars": 525,
+            "stars": 524,
             "topics": [
               "audio",
               "machine-learning",
@@ -544,7 +544,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 241,
+            "stars": 242,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -628,7 +628,7 @@
             "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 475,
+            "stars": 477,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 7,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 475,
+            "stars": 477,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T00:09:58.957Z",
+    "last_updated": "2026-09-08T00:35:16.936Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
