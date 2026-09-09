@@ -28,14 +28,14 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
-* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,612 | 🐛 396 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,615 | 🐛 396 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
-* [Muzic](https://github.com/microsoft/muzic) ⭐ 4,953 | 🐛 115 | 🌐 Python | 📅 2026-08-05: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
+* [Muzic](https://github.com/microsoft/muzic) ⭐ 4,954 | 🐛 115 | 🌐 Python | 📅 2026-08-05: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
 * [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,903 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
 * [musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) ⭐ 3,293 | 🐛 26 | 🌐 Python | 📅 2023-09-06: PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)
-* [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) ⭐ 3,254 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-07 - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
-* [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) ⭐ 2,723 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-05-04: A notebook demonstrating prompt-based music generation using Mubert API 🎵 (2674 stars)
-* [riffusion-app](https://github.com/riffusion/riffusion-app) ⭐ 2,676 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-22: Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
+* [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) ⭐ 3,256 | 🐛 131 | 🌐 TypeScript | 📅 2026-09-07 - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
+* [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) ⭐ 2,722 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-05-04: A notebook demonstrating prompt-based music generation using Mubert API 🎵 (2674 stars)
+* [riffusion-app](https://github.com/riffusion/riffusion-app) ⭐ 2,675 | 🐛 25 | 🌐 TypeScript | 📅 2024-07-22: Stable diffusion for real-time music generation in a web app 🎵 (2474 stars)
 * [AudioLDM2](https://github.com/haoheliu/AudioLDM2) ⭐ 2,640 | 🐛 75 | 🌐 Python | 📅 2024-09-29: Text-to-Audio/Music Generation 🎵 (1733 stars)
 * [Magenta.js](https://github.com/magenta/magenta-js) ⭐ 2,126 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22: Music and Art Generation with Machine Learning in the browser 🎵🖌️ (1899 stars)
 * [musegan](https://github.com/salu133445/musegan) ⭐ 2,040 | 🐛 21 | 🌐 Python | 📅 2024-06-07: An AI for Music Generation 🎵 (1602 stars)
@@ -49,7 +49,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 * [**VampNET**](https://github.com/hugofloresgarcia/vampnet) ⭐ 358 | 🐛 19 | 🌐 Max | 📅 2025-05-16: Music generation with masked transformers! 🎶🦇 (204 stars)
 * [**MusicGenerator**](https://github.com/Conchylicultor/MusicGenerator) ⭐ 338 | 🐛 7 | 🌐 Python | 📅 2017-04-01: Experiment with diverse deep learning models for music generation with TensorFlow. 🎶🧪 (309 stars)
 * [**MuseTree**](https://github.com/stevenwaterman/musetree) ⭐ 251 | 🐛 38 | 🌐 TypeScript | 📅 2023-05-07: AI music generation for the real world. 🎵🌍 (215 stars)
-* [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj) ⭐ 242 | 🐛 0 | 🌐 C++ | 📅 2026-07-31: Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
+* [**OBSIDIAN Neural**](https://github.com/innermost47/ai-dj) ⭐ 241 | 🐛 0 | 🌐 C++ | 📅 2026-07-31: Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)
 * [**LatentScore**](https://github.com/prabal-rje/latentscore) ⭐ 44 | 🐛 1 | 🌐 Python | 📅 2026-05-29: Simple text to ambient music in Python without GPU. 🎵 (35 stars)
 
 ## Articles & Blogs
@@ -132,8 +132,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## Tools & Software
 
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 477 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 477 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 478 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 478 | 🐛 7 | 🌐 Python | 📅 2026-09-02: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 * [Stability AI unveils 'Stable Audio'](https://alternativeto.net/news/2023/9/stability-ai-unveils-stable-audio--a-versatile-platform-for-ai-music-generation/): A versatile platform for AI Music Generation. Stability AI has launched a new AI platform, Stable Audio, which offers a novel latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control.
 * [SuperCollider](https://sourceforge.net/directory/?q=algorithmic%20music%20composition): An audio server, programming language, and IDE for sound synthesis. SuperCollider is a platform for audio synthesis and algorithmic composition.
 * [Best Open Source AI Music Generators](https://sourceforge.net/directory/ai-music-generators/): Implementation of AudioLM, a language modeling approach to audio generation using Pytorch. It includes conditioning mechanisms for more control over generated music.
@@ -174,8 +174,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ***
 
-This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-09-03. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
+This initial version of the Awesome List was generated with the help of the [Awesome List Generator](https://github.com/alialsaeedi19/GPT-Awesome-List-Maker) ⭐ 43 | 🐛 2 | 🌐 Python | 📅 2026-09-08. It's an open-source Python package that uses the power of GPT models to automatically curate and generate starting points for resource lists related to a specific topic.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
