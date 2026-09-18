@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23633,
+            "stars": 23637,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19799,
+            "stars": 19798,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4958,
+            "stars": 4959,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -142,7 +142,7 @@
             "open_issues": 130,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3263,
+            "stars": 3264,
             "topics": [
               "ace-step",
               "ai",
@@ -539,8 +539,8 @@
             "homepage": "https://obsidian-neural.com/",
             "id": 984684594,
             "language": "C++",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-07-31T09:10:58Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-09-17T13:08:58Z",
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 495,
+            "stars": 496,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 495,
+            "stars": 496,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-17T00:45:16.688Z",
+    "last_updated": "2026-09-18T00:35:48.819Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
