@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23642,
+            "stars": 23640,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -142,7 +142,7 @@
             "open_issues": 130,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3266,
+            "stars": 3270,
             "topics": [
               "ace-step",
               "ai",
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -536,7 +536,7 @@
           "repo_info": {
             "archived": false,
             "description": "AI music generation for live performance - Standalone (Ableton Link) + VST3/AU. 8 tracks, 9 AI models. It occasionally hallucinates. Not a song generator - you still have to do the work. Stay human.",
-            "homepage": "https://obsidian-neural.com/",
+            "homepage": null,
             "id": 984684594,
             "language": "C++",
             "license": "NOASSERTION",
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 503,
+            "stars": 505,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 503,
+            "stars": 505,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T00:23:36.361Z",
+    "last_updated": "2026-09-22T00:59:14.542Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -713,7 +713,7 @@
       "open_issues": 10,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
-      "stars": 497,
+      "stars": 498,
       "topics": [
         "ai",
         "awesome",
