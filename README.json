@@ -19,7 +19,7 @@
             "open_issues": 398,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23650,
+            "stars": 23651,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4962,
+            "stars": 4963,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3901,
+            "stars": 3900,
             "topics": [
               "ai",
               "audio",
@@ -142,7 +142,7 @@
             "open_issues": 130,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3272,
+            "stars": 3274,
             "topics": [
               "ace-step",
               "ai",
@@ -544,7 +544,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 247,
+            "stars": 248,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 513,
+            "stars": 514,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 513,
+            "stars": 514,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T00:39:32.262Z",
+    "last_updated": "2026-09-26T00:45:09.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
