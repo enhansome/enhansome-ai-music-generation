@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
-            "open_issues": 398,
+            "open_issues": 399,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23651,
+            "stars": 23650,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4963,
+            "stars": 4962,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -181,7 +181,7 @@
             "open_issues": 12,
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2722,
+            "stars": 2721,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2643,
+            "stars": 2642,
             "topics": [
               "audio-generation"
             ]
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 514,
+            "stars": 515,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 514,
+            "stars": 515,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T00:45:09.885Z",
+    "last_updated": "2026-09-27T00:45:16.644Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
