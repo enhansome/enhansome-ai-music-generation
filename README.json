@@ -19,7 +19,7 @@
             "open_issues": 400,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23657,
+            "stars": 23661,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -51,7 +51,7 @@
           "description": "Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "description": "Muzic: Music Understanding and Generation with Artificial Intelligence",
             "homepage": null,
             "id": 373462930,
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4962,
+            "stars": 4963,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3900,
+            "stars": 3901,
             "topics": [
               "ai",
               "audio",
@@ -202,7 +202,7 @@
             "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2670,
+            "stars": 2671,
             "topics": [
               "ai",
               "audio",
@@ -254,7 +254,7 @@
             "open_issues": 136,
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2127,
+            "stars": 2128,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -509,27 +509,6 @@
         },
         {
           "node_type": "item",
-          "title": "MuseTree",
-          "description": "AI music generation for the real world. 🎵🌍 (215 stars)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "AI Music Generation for the Real World",
-            "homepage": "http://musetree.stevenwaterman.uk/",
-            "id": 235198140,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2023-05-07T19:38:14Z",
-            "open_issues": 38,
-            "owner": "stevenwaterman",
-            "repo": "musetree",
-            "stars": 251,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T06:13:14.119Z"
-        },
-        {
-          "node_type": "item",
           "title": "OBSIDIAN Neural",
           "description": "Real-time AI loop generation VST3 plugin for live performance. 🎹⚡ (150 stars)",
           "children": [],
@@ -544,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 251,
+            "stars": 252,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -562,6 +541,27 @@
               "standalone",
               "vst"
             ]
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
+        },
+        {
+          "node_type": "item",
+          "title": "MuseTree",
+          "description": "AI music generation for the real world. 🎵🌍 (215 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "AI Music Generation for the Real World",
+            "homepage": "http://musetree.stevenwaterman.uk/",
+            "id": 235198140,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2023-05-07T19:38:14Z",
+            "open_issues": 38,
+            "owner": "stevenwaterman",
+            "repo": "musetree",
+            "stars": 251,
+            "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
         },
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 524,
+            "stars": 525,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T01:24:04.002Z",
+    "last_updated": "2026-10-02T01:45:14.425Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -710,7 +710,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-04T19:28:29Z",
-      "open_issues": 10,
+      "open_issues": 11,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
       "stars": 498,
