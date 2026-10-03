@@ -28,7 +28,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
-* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,658 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,657 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
 * [Muzic](https://github.com/microsoft/muzic) ⚠️ Archived: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
 * [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,901 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
@@ -132,8 +132,8 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## Tools & Software
 
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 526 | 🐛 5 | 🌐 Python | 📅 2026-09-23: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
-* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 526 | 🐛 5 | 🌐 Python | 📅 2026-09-23: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 528 | 🐛 5 | 🌐 Python | 📅 2026-09-23: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
+* [Claude AI Music Skills](https://github.com/bitwize-music-studio/claude-ai-music-skills) ⭐ 528 | 🐛 5 | 🌐 Python | 📅 2026-09-23: Claude Code plugin for full-lifecycle AI music album production — lyrics, Suno style prompts, per-stem mixing, mastering, and release distribution.
 * [Stability AI unveils 'Stable Audio'](https://alternativeto.net/news/2023/9/stability-ai-unveils-stable-audio--a-versatile-platform-for-ai-music-generation/): A versatile platform for AI Music Generation. Stability AI has launched a new AI platform, Stable Audio, which offers a novel latent diffusion model for generating audio conditioned on metadata and timing, providing faster inference times and creative control.
 * [SuperCollider](https://sourceforge.net/directory/?q=algorithmic%20music%20composition): An audio server, programming language, and IDE for sound synthesis. SuperCollider is a platform for audio synthesis and algorithmic composition.
 * [Best Open Source AI Music Generators](https://sourceforge.net/directory/ai-music-generators/): Implementation of AudioLM, a language modeling approach to audio generation using Pytorch. It includes conditioning mechanisms for more control over generated music.
