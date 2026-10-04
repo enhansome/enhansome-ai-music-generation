@@ -28,10 +28,10 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 
 ## GitHub projects
 
-* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,657 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
+* [Audiocraft](https://github.com/facebookresearch/audiocraft) ⭐ 23,659 | 🐛 400 | 🌐 Jupyter Notebook | 📅 2026-03-03: A library for audio processing and generation with deep learning, including MusicGen, a controllable music generation LM with textual and melodic conditioning 🎧 (17044 stars)
 * [Magenta](https://github.com/magenta/magenta) ⚠️ Archived: Music and Art Generation with Machine Intelligence 🎵🖌️ (18712 stars)
 * [Muzic](https://github.com/microsoft/muzic) ⚠️ Archived: Music Understanding and Generation with Artificial Intelligence 🎶 (3765 stars)
-* [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,901 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
+* [riffusion](https://github.com/riffusion/riffusion) ⭐ 3,902 | 🐛 71 | 🌐 Python | 📅 2024-07-22: Stable diffusion for real-time music generation 🎵 (2727 stars)
 * [musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) ⭐ 3,295 | 🐛 26 | 🌐 Python | 📅 2023-09-06: PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)
 * [**TTS WebUI**](https://github.com/rsxdalv/tts-generation-webui) ⭐ 3,282 | 🐛 130 | 🌐 TypeScript | 📅 2026-09-07 - Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)
 * [Mubert-Text-to-Music](https://github.com/MubertAI/Mubert-Text-to-Music) ⭐ 2,721 | 🐛 12 | 🌐 Jupyter Notebook | 📅 2023-05-04: A notebook demonstrating prompt-based music generation using Mubert API 🎵 (2674 stars)
@@ -39,7 +39,7 @@ This list aims to be a comprehensive hub for enthusiasts, researchers, and profe
 * [AudioLDM2](https://github.com/haoheliu/AudioLDM2) ⭐ 2,643 | 🐛 75 | 🌐 Python | 📅 2024-09-29: Text-to-Audio/Music Generation 🎵 (1733 stars)
 * [Magenta.js](https://github.com/magenta/magenta-js) ⭐ 2,128 | 🐛 136 | 🌐 TypeScript | 📅 2026-06-22: Music and Art Generation with Machine Learning in the browser 🎵🖌️ (1899 stars)
 * [musegan](https://github.com/salu133445/musegan) ⭐ 2,046 | 🐛 21 | 🌐 Python | 📅 2024-06-07: An AI for Music Generation 🎵 (1602 stars)
-* [**Radium**](https://github.com/kmatheussen/radium) ⭐ 1,084 | 🐛 265 | 🌐 C++ | 📅 2026-09-29: A graphical music editor and next generation tracker. 🎵⚡️ (805 stars)
+* [**Radium**](https://github.com/kmatheussen/radium) ⭐ 1,084 | 🐛 265 | 🌐 C++ | 📅 2026-10-03: A graphical music editor and next generation tracker. 🎵⚡️ (805 stars)
 * [**GRUV**](https://github.com/MattVitelli/GRUV) ⭐ 795 | 🐛 27 | 🌐 Python | 📅 2020-11-28: A Python project for algorithmic music generation. 🐍🎶 (798 stars)
 * [**DeepJ**](https://github.com/calclavia/DeepJ) ⭐ 744 | 🐛 17 | 🌐 Python | 📅 2018-09-30: A deep learning model for style-specific music generation. 🎵🔥 (717 stars)
 * [**Music Generation with Deep Learning**](https://github.com/umbrellabeach/music-generation-with-DL) ⭐ 729 | 🐛 1 | 📅 2021-08-02: Resources on music generation using deep learning. 🎶💻 (700 stars)
@@ -178,4 +178,4 @@ This initial version of the Awesome List was generated with the help of the [Awe
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
