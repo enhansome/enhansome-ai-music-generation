@@ -299,8 +299,8 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-03T14:17:56Z",
-            "open_issues": 265,
+            "last_commit": "2026-10-04T21:56:45Z",
+            "open_issues": 264,
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1084,
@@ -628,7 +628,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 528,
+            "stars": 531,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 528,
+            "stars": 531,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T01:47:04.654Z",
+    "last_updated": "2026-10-05T01:06:14.934Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
