@@ -19,7 +19,7 @@
             "open_issues": 400,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23658,
+            "stars": 23661,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -202,7 +202,7 @@
             "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2672,
+            "stars": 2671,
             "topics": [
               "ai",
               "audio",
@@ -299,8 +299,8 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-05T19:22:48Z",
-            "open_issues": 263,
+            "last_commit": "2026-10-06T18:48:59Z",
+            "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1085,
@@ -401,7 +401,7 @@
             "open_issues": 14,
             "owner": "marcoppasini",
             "repo": "musika",
-            "stars": 684,
+            "stars": 683,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:20:57.391Z",
+    "last_updated": "2026-10-07T01:42:48.333Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
