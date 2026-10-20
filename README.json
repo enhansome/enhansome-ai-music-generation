@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23744,
+            "stars": 23750,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2643,
+            "stars": 2644,
             "topics": [
               "audio-generation"
             ]
@@ -300,7 +300,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-18T19:12:08Z",
-            "open_issues": 262,
+            "open_issues": 263,
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1087,
@@ -628,7 +628,7 @@
             "open_issues": 3,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 569,
+            "stars": 572,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 3,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 569,
+            "stars": 572,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T00:20:40.133Z",
+    "last_updated": "2026-10-20T01:08:39.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
