@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23749,
+            "stars": 23752,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19786,
+            "stars": 19785,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3900,
+            "stars": 3899,
             "topics": [
               "ai",
               "audio",
@@ -95,33 +95,6 @@
               "diffusion",
               "music",
               "stable-diffusion"
-            ]
-          },
-          "first_seen": "2026-08-28T06:13:14.119Z"
-        },
-        {
-          "node_type": "item",
-          "title": "musiclm-pytorch",
-          "description": "PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
-            "homepage": null,
-            "id": 594096901,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2023-09-06T16:36:58Z",
-            "open_issues": 26,
-            "owner": "lucidrains",
-            "repo": "musiclm-pytorch",
-            "stars": 3292,
-            "topics": [
-              "artificial-intelligence",
-              "attention-mechanisms",
-              "deep-learning",
-              "music-synthesis",
-              "transformers"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -142,7 +115,7 @@
             "open_issues": 130,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3292,
+            "stars": 3294,
             "topics": [
               "ace-step",
               "ai",
@@ -161,6 +134,33 @@
               "tortoise-tts",
               "tts",
               "vocos"
+            ]
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
+        },
+        {
+          "node_type": "item",
+          "title": "musiclm-pytorch",
+          "description": "PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch",
+            "homepage": null,
+            "id": 594096901,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2023-09-06T16:36:58Z",
+            "open_issues": 26,
+            "owner": "lucidrains",
+            "repo": "musiclm-pytorch",
+            "stars": 3293,
+            "topics": [
+              "artificial-intelligence",
+              "attention-mechanisms",
+              "deep-learning",
+              "music-synthesis",
+              "transformers"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2642,
+            "stars": 2641,
             "topics": [
               "audio-generation"
             ]
@@ -254,7 +254,7 @@
             "open_issues": 136,
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2133,
+            "stars": 2132,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 258,
+            "stars": 259,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -628,7 +628,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 579,
+            "stars": 583,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 579,
+            "stars": 583,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T00:47:35.162Z",
+    "last_updated": "2026-10-24T00:54:49.763Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
