@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23752,
+            "stars": 23755,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -202,7 +202,7 @@
             "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "ai",
               "audio",
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2641,
+            "stars": 2642,
             "topics": [
               "audio-generation"
             ]
@@ -299,7 +299,7 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-22T19:11:44Z",
+            "last_commit": "2026-10-24T19:38:29Z",
             "open_issues": 263,
             "owner": "kmatheussen",
             "repo": "radium",
@@ -375,7 +375,7 @@
             "open_issues": 1,
             "owner": "umbrellabeach",
             "repo": "music-generation-with-DL",
-            "stars": 729,
+            "stars": 728,
             "topics": [
               "deep-learning",
               "gan",
@@ -443,7 +443,7 @@
             "open_issues": 26,
             "owner": "salu133445",
             "repo": "muspy",
-            "stars": 527,
+            "stars": 528,
             "topics": [
               "audio",
               "machine-learning",
@@ -471,7 +471,7 @@
             "open_issues": 19,
             "owner": "hugofloresgarcia",
             "repo": "vampnet",
-            "stars": 356,
+            "stars": 357,
             "topics": [
               "deep-learning",
               "music",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 259,
+            "stars": 260,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -628,7 +628,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 583,
+            "stars": 586,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 583,
+            "stars": 586,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T00:54:49.763Z",
+    "last_updated": "2026-10-25T00:26:27.939Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -713,7 +713,7 @@
       "open_issues": 22,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
-      "stars": 502,
+      "stars": 503,
       "topics": [
         "ai",
         "awesome",
