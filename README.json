@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23758,
+            "stars": 23760,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3899,
+            "stars": 3900,
             "topics": [
               "ai",
               "audio",
@@ -95,45 +95,6 @@
               "diffusion",
               "music",
               "stable-diffusion"
-            ]
-          },
-          "first_seen": "2026-08-28T06:13:14.119Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TTS WebUI",
-          "description": "Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
-            "homepage": "http://TTSWebUI.com/",
-            "id": 633546245,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-07T08:54:58Z",
-            "open_issues": 130,
-            "owner": "rsxdalv",
-            "repo": "TTS-WebUI",
-            "stars": 3294,
-            "topics": [
-              "ace-step",
-              "ai",
-              "audio-generation",
-              "cosyvoice",
-              "generative-ai",
-              "generator",
-              "gradio",
-              "music",
-              "musicgen",
-              "openai-api",
-              "openvoice",
-              "rvc",
-              "styletts2",
-              "text-to-speech",
-              "tortoise-tts",
-              "tts",
-              "vocos"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -161,6 +122,45 @@
               "deep-learning",
               "music-synthesis",
               "transformers"
+            ]
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
+        },
+        {
+          "node_type": "item",
+          "title": "TTS WebUI",
+          "description": "Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
+            "homepage": "http://TTSWebUI.com/",
+            "id": 633546245,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-07T08:54:58Z",
+            "open_issues": 130,
+            "owner": "rsxdalv",
+            "repo": "TTS-WebUI",
+            "stars": 3293,
+            "topics": [
+              "ace-step",
+              "ai",
+              "audio-generation",
+              "cosyvoice",
+              "generative-ai",
+              "generator",
+              "gradio",
+              "music",
+              "musicgen",
+              "openai-api",
+              "openvoice",
+              "rvc",
+              "styletts2",
+              "text-to-speech",
+              "tortoise-tts",
+              "tts",
+              "vocos"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -254,7 +254,7 @@
             "open_issues": 137,
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2132,
+            "stars": 2133,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -300,7 +300,7 @@
             "language": "C++",
             "license": "GPL-2.0",
             "last_commit": "2026-10-25T19:57:27Z",
-            "open_issues": 263,
+            "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
             "stars": 1087,
@@ -471,7 +471,7 @@
             "open_issues": 19,
             "owner": "hugofloresgarcia",
             "repo": "vampnet",
-            "stars": 357,
+            "stars": 358,
             "topics": [
               "deep-learning",
               "music",
@@ -625,10 +625,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-10-22T01:07:02Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 592,
+            "stars": 598,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -667,10 +667,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-10-22T01:07:02Z",
-            "open_issues": 4,
+            "open_issues": 5,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 592,
+            "stars": 598,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T00:32:15.009Z",
+    "last_updated": "2026-10-27T01:34:00.861Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -710,7 +710,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-04T19:28:29Z",
-      "open_issues": 25,
+      "open_issues": 26,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
       "stars": 503,
