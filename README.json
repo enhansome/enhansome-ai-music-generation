@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23760,
+            "stars": 23767,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -101,6 +101,45 @@
         },
         {
           "node_type": "item",
+          "title": "TTS WebUI",
+          "description": "Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
+            "homepage": "http://TTSWebUI.com/",
+            "id": 633546245,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-09-07T08:54:58Z",
+            "open_issues": 130,
+            "owner": "rsxdalv",
+            "repo": "TTS-WebUI",
+            "stars": 3295,
+            "topics": [
+              "ace-step",
+              "ai",
+              "audio-generation",
+              "cosyvoice",
+              "generative-ai",
+              "generator",
+              "gradio",
+              "music",
+              "musicgen",
+              "openai-api",
+              "openvoice",
+              "rvc",
+              "styletts2",
+              "text-to-speech",
+              "tortoise-tts",
+              "tts",
+              "vocos"
+            ]
+          },
+          "first_seen": "2026-08-28T06:13:14.119Z"
+        },
+        {
+          "node_type": "item",
           "title": "musiclm-pytorch",
           "description": "PyTorch implementation of MusicLM, Google's state-of-the-art model for music generation using attention networks 🎼 (2763 stars)",
           "children": [],
@@ -122,45 +161,6 @@
               "deep-learning",
               "music-synthesis",
               "transformers"
-            ]
-          },
-          "first_seen": "2026-08-28T06:13:14.119Z"
-        },
-        {
-          "node_type": "item",
-          "title": "TTS WebUI",
-          "description": "Generative AI for Music and TTS, supporting Audiocraft, MusicGen, ACE-Step, RVC and more. 🎵 (2163 stars)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A single Gradio + React WebUI with extensions for ACE-Step, OmniVoice, Kimi Audio, Piper TTS, GPT-SoVITS, CosyVoice, XTTSv2, DIA, Kokoro, OpenVoice, ParlerTTS, Stable Audio, MMS, StyleTTS2, MAGNet, AudioGen, MusicGen, Tortoise, RVC, Vocos, Demucs, SeamlessM4T, and Bark!",
-            "homepage": "http://TTSWebUI.com/",
-            "id": 633546245,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-09-07T08:54:58Z",
-            "open_issues": 130,
-            "owner": "rsxdalv",
-            "repo": "TTS-WebUI",
-            "stars": 3293,
-            "topics": [
-              "ace-step",
-              "ai",
-              "audio-generation",
-              "cosyvoice",
-              "generative-ai",
-              "generator",
-              "gradio",
-              "music",
-              "musicgen",
-              "openai-api",
-              "openvoice",
-              "rvc",
-              "styletts2",
-              "text-to-speech",
-              "tortoise-tts",
-              "tts",
-              "vocos"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -231,7 +231,7 @@
             "open_issues": 75,
             "owner": "haoheliu",
             "repo": "AudioLDM2",
-            "stars": 2642,
+            "stars": 2643,
             "topics": [
               "audio-generation"
             ]
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2045,
+            "stars": 2043,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -624,11 +624,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-22T01:07:02Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-27T23:24:36Z",
+            "open_issues": 6,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 598,
+            "stars": 601,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -666,11 +666,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-10-22T01:07:02Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-27T23:24:36Z",
+            "open_issues": 6,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 598,
+            "stars": 601,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T01:34:00.861Z",
+    "last_updated": "2026-10-28T01:31:34.093Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
