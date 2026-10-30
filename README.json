@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23776,
+            "stars": 23779,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19785,
+            "stars": 19784,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -111,11 +111,11 @@
             "id": 633546245,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-10-29T00:58:30Z",
+            "last_commit": "2026-10-29T19:21:28Z",
             "open_issues": 131,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3296,
+            "stars": 3297,
             "topics": [
               "ace-step",
               "ai",
@@ -202,7 +202,7 @@
             "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2673,
+            "stars": 2672,
             "topics": [
               "ai",
               "audio",
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2043,
+            "stars": 2044,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -299,7 +299,7 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-10-28T23:13:00Z",
+            "last_commit": "2026-10-29T20:34:36Z",
             "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
@@ -628,7 +628,7 @@
             "open_issues": 8,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 604,
+            "stars": 607,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 8,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 604,
+            "stars": 607,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T01:53:51.857Z",
+    "last_updated": "2026-10-30T02:04:46.096Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -710,7 +710,7 @@
       "language": null,
       "license": "Apache-2.0",
       "last_commit": "2026-09-04T19:28:29Z",
-      "open_issues": 29,
+      "open_issues": 30,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
       "stars": 503,
