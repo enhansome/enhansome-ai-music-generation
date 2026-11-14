@@ -19,7 +19,7 @@
             "open_issues": 402,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23861,
+            "stars": 23866,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19784,
+            "stars": 19785,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4959,
+            "stars": 4960,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -87,7 +87,7 @@
             "open_issues": 71,
             "owner": "riffusion",
             "repo": "riffusion-hobby",
-            "stars": 3907,
+            "stars": 3908,
             "topics": [
               "ai",
               "audio",
@@ -115,7 +115,7 @@
             "open_issues": 131,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3311,
+            "stars": 3312,
             "topics": [
               "ace-step",
               "ai",
@@ -181,7 +181,7 @@
             "open_issues": 12,
             "owner": "MubertAI",
             "repo": "Mubert-Text-to-Music",
-            "stars": 2741,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -202,7 +202,7 @@
             "open_issues": 25,
             "owner": "riffusion",
             "repo": "riffusion-app-hobby",
-            "stars": 2671,
+            "stars": 2672,
             "topics": [
               "ai",
               "audio",
@@ -254,7 +254,7 @@
             "open_issues": 137,
             "owner": "magenta",
             "repo": "magenta-js",
-            "stars": 2134,
+            "stars": 2135,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2044,
+            "stars": 2045,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -299,7 +299,7 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-10T20:40:32Z",
+            "last_commit": "2026-11-13T18:07:44Z",
             "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
@@ -628,7 +628,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -670,7 +670,7 @@
             "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 663,
+            "stars": 664,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-13T02:45:39.724Z",
+    "last_updated": "2026-11-14T02:35:27.857Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
