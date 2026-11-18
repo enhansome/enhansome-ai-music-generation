@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
-            "open_issues": 402,
+            "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23893,
+            "stars": 23904,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4960,
+            "stars": 4959,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -115,7 +115,7 @@
             "open_issues": 131,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3313,
+            "stars": 3315,
             "topics": [
               "ace-step",
               "ai",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -625,10 +625,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-15T00:44:29Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -667,10 +667,10 @@
             "language": "Python",
             "license": "CC0-1.0",
             "last_commit": "2026-11-15T00:44:29Z",
-            "open_issues": 2,
+            "open_issues": 4,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T04:40:57.637Z",
+    "last_updated": "2026-11-18T03:46:29.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
@@ -713,7 +713,7 @@
       "open_issues": 40,
       "owner": "Curated-Awesome-Lists",
       "repo": "awesome-ai-music-generation",
-      "stars": 509,
+      "stars": 510,
       "topics": [
         "ai",
         "awesome",
