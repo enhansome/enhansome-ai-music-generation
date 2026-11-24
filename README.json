@@ -19,7 +19,7 @@
             "open_issues": 401,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23943,
+            "stars": 23948,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19784,
+            "stars": 19783,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -61,7 +61,7 @@
             "open_issues": 115,
             "owner": "microsoft",
             "repo": "muzic",
-            "stars": 4958,
+            "stars": 4957,
             "topics": [
               "ai-music",
               "deep-learning",
@@ -111,11 +111,11 @@
             "id": 633546245,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-19T22:57:42Z",
-            "open_issues": 130,
+            "last_commit": "2026-11-24T05:02:22Z",
+            "open_issues": 131,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
-            "stars": 3317,
+            "stars": 3318,
             "topics": [
               "ace-step",
               "ai",
@@ -275,7 +275,7 @@
             "open_issues": 21,
             "owner": "salu133445",
             "repo": "musegan",
-            "stars": 2044,
+            "stars": 2046,
             "topics": [
               "gan",
               "generative-adversarial-network",
@@ -299,7 +299,7 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-22T21:23:03Z",
+            "last_commit": "2026-11-24T00:40:02Z",
             "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 266,
+            "stars": 268,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -624,11 +624,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-23T02:44:45Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-23T03:45:52Z",
+            "open_issues": 2,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 689,
+            "stars": 693,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -666,11 +666,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-23T02:44:45Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-23T03:45:52Z",
+            "open_issues": 2,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 689,
+            "stars": 693,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +701,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-23T02:56:48.436Z",
+    "last_updated": "2026-11-24T06:14:37.383Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
