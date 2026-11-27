@@ -16,10 +16,10 @@
             "language": "Jupyter Notebook",
             "license": "MIT",
             "last_commit": "2026-03-03T21:50:32Z",
-            "open_issues": 401,
+            "open_issues": 402,
             "owner": "facebookresearch",
             "repo": "audiocraft",
-            "stars": 23970,
+            "stars": 23977,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -40,7 +40,7 @@
             "open_issues": 428,
             "owner": "magenta",
             "repo": "magenta",
-            "stars": 19781,
+            "stars": 19780,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -111,8 +111,8 @@
             "id": 633546245,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-11-26T02:44:40Z",
-            "open_issues": 131,
+            "last_commit": "2026-11-26T21:59:35Z",
+            "open_issues": 108,
             "owner": "rsxdalv",
             "repo": "TTS-WebUI",
             "stars": 3318,
@@ -299,11 +299,11 @@
             "id": 2636759,
             "language": "C++",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-25T16:46:43Z",
+            "last_commit": "2026-11-26T21:31:34Z",
             "open_issues": 262,
             "owner": "kmatheussen",
             "repo": "radium",
-            "stars": 1097,
+            "stars": 1098,
             "topics": []
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -523,7 +523,7 @@
             "open_issues": 0,
             "owner": "innermost47",
             "repo": "ai-dj",
-            "stars": 270,
+            "stars": 271,
             "topics": [
               "ableton-link-audio",
               "ai",
@@ -572,12 +572,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Python library for generating ambient music from text descriptions. No GPU required. Turn text into sound with a single line of code.",
+            "description": "Generate calm, reactive ambient music from text locally with no GPU. Open-source procedural audio SDK for Python, TypeScript/JavaScript, Rust, and browsers.",
             "homepage": "https://latentscore.com",
             "id": 1125003348,
             "language": "Python",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-22T00:49:30Z",
+            "last_commit": "2026-11-27T03:51:53Z",
             "open_issues": 1,
             "owner": "prabal-rje",
             "repo": "latentscore",
@@ -588,20 +588,21 @@
               "audio-synthesis",
               "creative-coding",
               "embeddings",
-              "gemini-api",
-              "gemma",
               "generative-ai",
+              "javascript",
               "llm",
               "music",
               "music-generation",
               "procedural-audio",
               "procedural-generation",
               "python",
-              "retrieval-augmented-generation",
+              "rust",
               "sentence-transformers",
               "sound-design",
               "synthesizer",
-              "text-to-music"
+              "text-to-music",
+              "typescript",
+              "web-audio"
             ]
           },
           "first_seen": "2026-08-28T06:13:14.119Z"
@@ -624,11 +625,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-26T04:09:09Z",
+            "last_commit": "2026-11-26T21:37:33Z",
             "open_issues": 2,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 710,
+            "stars": 717,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -666,11 +667,11 @@
             "id": 1133894957,
             "language": "Python",
             "license": "CC0-1.0",
-            "last_commit": "2026-11-26T04:09:09Z",
+            "last_commit": "2026-11-26T21:37:33Z",
             "open_issues": 2,
             "owner": "bitwize-music-studio",
             "repo": "claude-ai-music-skills",
-            "stars": 710,
+            "stars": 717,
             "topics": [
               "ai-music",
               "ai-music-tools",
@@ -701,7 +702,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T04:15:24.468Z",
+    "last_updated": "2026-11-27T04:23:44.426Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated compilation of AI-driven generative music resources and projects. Explore the blend of machine learning algorithms and musical creativity.",
